@@ -5,15 +5,15 @@
 
 The impact of solar energy on the environment is generally positive compared to traditional fossil fuels. Here's a breakdown of some of the key environmental impacts:
 
-* 1. Reduction in Greenhouse Gas Emissions **
+* 1. Reduction in Greenhouse Gas Emissions *
      
 Solar energy is a clean and renewable source of power. When used instead of fossil fuels, it significantly reduces greenhouse gas emissions, such as carbon dioxide (CO2) and methane, which are major contributors to global warming and climate change.
 
-* 2. Reduction in Air Pollution **
+* 2. Reduction in Air Pollution *
 
 Solar power generation produces no air pollutants, unlike coal, oil, or natural gas power plants, which emit sulfur dioxide, nitrogen oxides, and particulate matter. These pollutants can cause respiratory illnesses, cardiovascular diseases, and other health problems.
 
-* 3. Minimal Water Usage **
+* 3. Minimal Water Usage *
 
 Unlike traditional power plants, which often require significant water for cooling, solar photovoltaic (PV) systems require little to no water to operate. This is especially important in arid regions and during times of drought, where water is a precious resource.
 
